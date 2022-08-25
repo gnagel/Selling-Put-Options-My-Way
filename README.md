@@ -9,7 +9,8 @@ These are my cliff notes on reading a kindle book for my personal use.
 1. My Investing History
 2. My Personal History
 3. Learning Some Basic’s
-4. Options and Related Definitions 5. Margin and Maintenance
+4. Options and Related Definitions 
+5. Margin and Maintenance
 6. Buying and Selling Puts
 7. Who Should Sell Puts
 8. Three of the Most Common Questions
