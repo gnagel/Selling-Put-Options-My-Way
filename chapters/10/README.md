@@ -46,4 +46,9 @@ The closing notes are to be cautious, getting greedy will result in your account
 This is about slow and steady growth, not explosive returns immediately.
 If the position is returning something more than 6-7% avoid it, you are likely to get into trouble, and it will break your portfolio in the long run.
 
+**Note:**
+- The chapter closes on a warning, if the return is too good avoid it.
+- Shoot for 3-4% return per position.
+- If a PUT contract is returning more than that, move further away from the current strike price until it gets into the 3-4% range.
+
 🤞- Onto chapter 11 ...
