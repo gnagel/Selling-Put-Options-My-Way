@@ -32,3 +32,8 @@ These are my cliff notes on reading a kindle book for my personal use.
 1. [Some Thoughts](./chapters/23/README.md)
 1. [Stock and Option Newsletters](./chapters/24/README.md)
 1. [Summary](./chapters/25/README.md)
+
+# Summary Notes
+
+The summary of the trading style and rules are listed in the [NOTES.md](./NOTES.md) file for further review.
+
