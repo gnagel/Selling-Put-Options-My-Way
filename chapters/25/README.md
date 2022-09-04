@@ -13,5 +13,3 @@ This is the final chapter in the book and summarizes the rules so far for the "C
 8. Do not let looses run away from you (stick to the rules and close out a position early, rather than letting it run and wiping you out)
 9. Never hesitate to take profits or losses when there are doubts about a position (if there is a profit to be made now, it's better than a loss to be made later)
 10. Be suspicious if the premiums are "too good" (stick to the 3-6% ratio of premium / maintenance, if it's more than this move to a differient strike or stock)
-
-
